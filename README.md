@@ -88,6 +88,46 @@ Open-Meteo API
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/mazenelnaghy-code/invoice-pdf-to-excel"><img src="https://raw.githubusercontent.com/mazenelnaghy-code/invoice-pdf-to-excel/main/assets/cover.png" alt="PDF invoices read into an Excel sheet" width="100%"></a>
+
+**PDF invoices to Excel**<br>
+Supplier invoices in any layout read into one Excel workbook, with checks that flag totals that don't add up.<br>
+Example: [invoice-pdf-to-excel](https://github.com/mazenelnaghy-code/invoice-pdf-to-excel)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mazenelnaghy-code/ai-document-assistant"><img src="https://raw.githubusercontent.com/mazenelnaghy-code/ai-document-assistant/main/assets/cover.png" alt="A question answered with a cited page" width="100%"></a>
+
+**AI assistant for your documents**<br>
+Ask questions about your policies, manuals or contracts, and get answers that cite the file and page.<br>
+Example: [ai-document-assistant](https://github.com/mazenelnaghy-code/ai-document-assistant)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mazenelnaghy-code/excel-sales-dashboard"><img src="https://raw.githubusercontent.com/mazenelnaghy-code/excel-sales-dashboard/main/assets/cover.png" alt="A spreadsheet turned into a dashboard" width="100%"></a>
+
+**Dashboards from Excel**<br>
+Upload a sales file and explore revenue, branches, categories and products in an interactive dashboard.<br>
+Example: [excel-sales-dashboard](https://github.com/mazenelnaghy-code/excel-sales-dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mazenelnaghy-code/dynamic-price-tracker"><img src="https://raw.githubusercontent.com/mazenelnaghy-code/dynamic-price-tracker/main/assets/cover.png" alt="Prices tracked over time with a price drop marked" width="100%"></a>
+
+**Price and stock tracking**<br>
+Daily checks of shops that load with JavaScript, with a report of every price drop and stock change.<br>
+Example: [dynamic-price-tracker](https://github.com/mazenelnaghy-code/dynamic-price-tracker)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/mazenelnaghy-code/excel-merger-file-organizer"><img src="https://raw.githubusercontent.com/mazenelnaghy-code/excel-merger-file-organizer/main/assets/cover.png" alt="Messy files sorted and merged into one workbook" width="100%"></a>
 
 **Excel automation**<br>
@@ -145,13 +185,18 @@ web app (admin, guard and staff roles) on a 13-table relational database design.
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat" alt="Playwright">
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat&logo=claude&logoColor=white" alt="Claude API">
 </p>
 
-Also: NCNN · openpyxl · requests · BeautifulSoup
+Also: NCNN · openpyxl · pdfplumber · requests · BeautifulSoup
 
 ## Let's work together
 
-Have messy data, a repetitive Excel task, a website to scrape, or an idea for a camera that recognises something?
+Have messy data, a pile of PDF invoices, a repetitive Excel task, a website to track, or an idea for a camera
+that recognises something?
 
 1. **Tell me what you need.** Send a sample file, a link or a short description.
 2. **Get a plan.** I reply within a day or two with how I would do it.
