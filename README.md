@@ -112,7 +112,7 @@ Example: [ai-document-assistant](https://github.com/mazenelnaghy-code/ai-documen
 
 **Dashboards from Excel**<br>
 Upload a sales file and explore revenue, branches, categories and products in an interactive dashboard.<br>
-Example: [excel-sales-dashboard](https://github.com/mazenelnaghy-code/excel-sales-dashboard)
+Example: [excel-sales-dashboard](https://github.com/mazenelnaghy-code/excel-sales-dashboard) · [live demo](https://mazen-sales-dashboard.streamlit.app)
 
 </td>
 <td width="50%" valign="top">
