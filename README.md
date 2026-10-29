@@ -3,6 +3,7 @@
 </a>
 
 <p align="center">
+  <a href="https://www.upwork.com/freelancers/~01b6c711b0162ca691"><img src="https://img.shields.io/badge/Hire%20me-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=14213D" alt="Hire me on Upwork"></a>
   <a href="https://mazenelnaghy-code.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20site-FFC42E?style=for-the-badge&labelColor=14213D" alt="Portfolio"></a>
   <a href="mailto:mazen.elnaghy@gmail.com"><img src="https://img.shields.io/badge/Email-mazen.elnaghy%40gmail.com-FFC42E?style=for-the-badge&labelColor=14213D" alt="Email"></a>
   <a href="https://linkedin.com/in/mazen-elnaghy"><img src="https://img.shields.io/badge/LinkedIn-Connect-FFC42E?style=for-the-badge&labelColor=14213D" alt="LinkedIn"></a>
@@ -17,7 +18,7 @@ that run themselves, and Python tools that turn hours of manual Excel work into 
 - **AI Engineering student** at East Port Said National University: GPA 3.97, ranked 1st in my department (2024/25)
 - **Award:** my dog-detection system was recognised as an Outstanding Engineering Project at the EAST Engineering Expo (2026)
 - **Experience:** Programming Intern at the Suez Canal Authority · Data Engineering trainee at the Digital Egypt Pioneers Initiative (DEPI)
-- **Open to** freelance projects and internships. I work in Arabic and English.
+- **Open to** freelance projects ([hire me on Upwork](https://www.upwork.com/freelancers/~01b6c711b0162ca691)) and internships. I work in Arabic and English.
 
 ## Featured work
 
@@ -151,5 +152,13 @@ Also: NCNN · openpyxl · requests · BeautifulSoup
 ## Let's work together
 
 Have messy data, a repetitive Excel task, a website to scrape, or an idea for a camera that recognises something?
-Email me at **[mazen.elnaghy@gmail.com](mailto:mazen.elnaghy@gmail.com)** or message me on
-[LinkedIn](https://linkedin.com/in/mazen-elnaghy). I usually reply within a day or two.
+
+1. **Tell me what you need.** Send a sample file, a link or a short description.
+2. **Get a plan.** I reply within a day or two with how I would do it.
+3. **Get the result and the script.** Clean files you can check, plus the code that made them, so you can run it again.
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01b6c711b0162ca691"><img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=14213D" alt="Hire me on Upwork"></a>
+  <a href="mailto:mazen.elnaghy@gmail.com"><img src="https://img.shields.io/badge/Email-mazen.elnaghy%40gmail.com-FFC42E?style=for-the-badge&labelColor=14213D" alt="Email"></a>
+  <a href="https://linkedin.com/in/mazen-elnaghy"><img src="https://img.shields.io/badge/LinkedIn-Connect-FFC42E?style=for-the-badge&labelColor=14213D" alt="LinkedIn"></a>
+</p>
